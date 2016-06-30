@@ -1,0 +1,31 @@
+.tab{
+	width: 200px;
+	text-align: center;
+	font-size: 16px;
+	line-height: 24px;
+	> nav a{
+		border-right: 1px solid #ccc;
+		&:last-child{
+			border-right: none;
+		}
+	}
+
+	> div > div{
+		display: none;
+		width: 200px;
+		height: 200px;
+
+		&.show{
+			display: block;
+		}
+		&:nth-child(1){
+			background-color: red;
+		}
+		&:nth-child(2){
+			background-color: yellow;
+		}
+		&:nth-child(3){
+			background-color: blue;
+		}
+	}
+}

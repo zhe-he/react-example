@@ -1,0 +1,26 @@
+{
+  "name": "react-example",
+  "version": "1.0.0",
+  "description": "react小实例",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "zhe-he",
+  "license": "ISC",
+  "devDependencies": {
+    "babel-core": "^6.9.1",
+    "css-loader": "^0.23.1",
+    "del": "^2.2.0",
+    "exports-loader": "^0.6.3",
+    "extract-text-webpack-plugin": "^1.0.1",
+    "file-loader": "^0.8.5",
+    "jsx-loader": "^0.13.2",
+    "node-sass": "^3.7.0",
+    "sass-loader": "^3.2.0",
+    "style-loader": "^0.13.1",
+    "url-loader": "^0.5.7",
+    "webpack": "^1.13.0",
+    "react": "^15.1.0",
+    "reactDom": "^15.1.0"
+  }
+}
