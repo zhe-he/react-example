@@ -7,7 +7,8 @@ module.exports = {
 	// 页面入口文件配置
 	entry: {
 		tab: './src/js/tab.js',
-		drag: './src/js/drag.js'
+		drag: './src/js/drag.js',
+		drag2: './src/js/drag2.js'
 	},
 	// 入口文件输出配置
 	output: {

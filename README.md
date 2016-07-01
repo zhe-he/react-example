@@ -2,6 +2,7 @@
 ##react小实例 
 ######&nbsp;&nbsp;tab.html 选项卡  
 ######&nbsp;&nbsp;drag.html 拖拽 
+######&nbsp;&nbsp;drag2.html 拖拽-优化 
 ######&nbsp;&nbsp;other,正在更新……
 ###查看demo的示例，需进行如下几步: <br/>
 <b>1.安装依赖<b>
