@@ -1,0 +1,36 @@
+.animate-control{
+	width: 800px;
+	padding: 10px 10px;
+
+	font-size: 16px;
+	line-height: 24px;
+	vertical-align: top;
+	> input{
+		height: 24px;
+		margin: 0 5px;
+	}
+	> a{
+		display: inline-block;
+		padding: 0 10px;
+		border: 1px solid #ccc;
+		border-radius: 5px;
+		&:hover{
+			text-decoration: underline;
+		}
+		&:active{
+			background-color: #ccc;
+		}
+	}
+}
+.animate-box{
+	position: absolute;
+	top: 50px;
+	left: 0;
+	width: 100px;
+	height: 100px;
+	border-radius: 50%;
+	background: -webkit-radial-gradient(bottom left, circle, #ace, #f96, #1E90FF);
+	background: radial-gradient(bottom left, circle, #ace, #f96, #1E90FF);
+	-webkit-filter: drop-shadow(5px 5px 3px rgba(0,0,0,0.8));
+	filter: drop-shadow(5px 5px 3px rgba(0,0,0,0.8));
+}

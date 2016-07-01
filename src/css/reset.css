@@ -23,8 +23,6 @@ input, textarea, select {
   outline: none; 
 }
 input, button, select, textarea {
-  -webkit-appearance: none;
-  appearance: none;
   border-radius: 0px; 
 }
 li {
