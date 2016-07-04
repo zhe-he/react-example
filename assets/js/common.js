@@ -1,5 +1,5 @@
 /*!
- * Fri, 01 Jul 2016 09:42:02 GMT
+ * Mon, 04 Jul 2016 07:52:35 GMT
  *  * built by `zhe-he`
  */
 /******/ (function(modules) { // webpackBootstrap
@@ -34,7 +34,7 @@
 /******/ 	// "0" means "already loaded"
 /******/ 	// Array means "loading", array contains callbacks
 /******/ 	var installedChunks = {
-/******/ 		4:0
+/******/ 		5:0
 /******/ 	};
 
 /******/ 	// The require function
@@ -80,7 +80,7 @@
 /******/ 			script.charset = 'utf-8';
 /******/ 			script.async = true;
 
-/******/ 			script.src = __webpack_require__.p + "" + chunkId + ".js/" + ({"0":"animate","1":"drag","2":"drag2","3":"tab"}[chunkId]||chunkId) + ".js";
+/******/ 			script.src = __webpack_require__.p + "" + chunkId + ".js/" + ({"0":"animate","1":"animate2","2":"drag","3":"drag2","4":"tab"}[chunkId]||chunkId) + ".js";
 /******/ 			head.appendChild(script);
 /******/ 		}
 /******/ 	};

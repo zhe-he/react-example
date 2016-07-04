@@ -1,0 +1,13 @@
+body{
+	overflow: hidden;
+}
+.animate2{
+	overflow: hidden;
+	background-color: black;
+	span{
+		background-color: black;
+		position: absolute;
+		-webkit-transform-origin: center center;
+		transform-origin: center center;
+	}
+}

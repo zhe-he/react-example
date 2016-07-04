@@ -32,7 +32,7 @@ let Tab = React.createClass({
 	}
 });
 let TabNav = React.createClass({
-	propTypes: {
+	propsTypes: {
 		data: React.PropTypes.array.isRequired
 	},
 	render(){
