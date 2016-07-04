@@ -5,7 +5,7 @@
 ######&nbsp;&nbsp;drag2.html 拖拽-优化 
 ######&nbsp;&nbsp;animate.html 运动 
 ######&nbsp;&nbsp;animate2.html 运动2 
-######&nbsp;&nbsp;other,正在更新……
+######&nbsp;&nbsp;end,暂时结束,如有额外需求,可以联系我
 
 ###其他说明
 关于aniamte2.html,虽然做了移动端的兼容，但移动端大部分手机不支持web animate && es6中的 let、 参数预定义，可以polyfill，或直接模拟手机查看。
